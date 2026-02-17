@@ -1,0 +1,23 @@
+{
+  "name": "TC Coach AI — Dental",
+  "short_name": "TC Dental",
+  "start_url": "/tc-coach-dental-preview/",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/tc-coach-dental-preview/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/tc-coach-dental-preview/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
